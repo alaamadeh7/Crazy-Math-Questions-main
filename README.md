@@ -1,5 +1,5 @@
 # CRAZY MATH GAME 🫠
-#### Made By: Mina , Menna , Sara , Pola
+#### Made By: Mina , Menna , Sara , Pola, Alaa
 # Idea
 The app is a game that generates **random math questions** that increase gradually in challenging level.
 Solve its 16 questions if you dare.
