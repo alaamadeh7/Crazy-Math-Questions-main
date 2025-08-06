@@ -1,23 +1,12 @@
-# 🧠 Crazy Math Questions
+# CRAZY MATH GAME 🫠
+#### Made By: Mina , Menna , Sara , Pola
+# Idea
+The app is a game that generates **random math questions** that increase gradually in challenging level.
+Solve its 16 questions if you dare.
 
-Welcome to **Crazy-Math-Questions-main** – a fun and challenging collection of unique and brain-twisting math problems designed to test and sharpen your thinking skills! Whether you're a student, teacher, or puzzle lover, this project is perfect for exploring the exciting side of mathematics.
+# Impressions
+This project is very significant to me because it was >80% self learning and I made its details with passion :).
 
-## 🚀 Features
-
-- 💡 A variety of tricky and fun math questions
-- 🔢 Covers multiple topics like algebra, logic, geometry, and number theory
-- 🧪 Great for quizzes, interviews, or self-practice
-- 🎓 Suitable for school and university students
-- 👨‍🏫 Can be used as a teaching or learning tool
-
-## 📁 Project Structure
-
-
-## 🛠️ How to Use
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Crazy-Math-Questions-main.git
-cd Crazy-Math-Questions-main
-
+<div>
+  <img src="https://github.com/Mina012/CRAZY-MATH-GAME/assets/169512114/1a999bae-9f16-4aaa-bcea-8cfb20dd6904" alt="Crazy Math Game" width="900" height="450">
+</div>
